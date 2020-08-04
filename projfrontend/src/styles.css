@@ -1,0 +1,101 @@
+.btn,
+.jumbotron,
+.nav :hover {
+  border-radius: 50px;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+.lead{
+  font-family: 'Oswald', sans-serif;
+}
+
+
+.jumbotron{
+  margin-top: 30px;
+  background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 49%, rgba(0,212,255,1) 100%);
+}
+
+
+.nav:hover{
+  text-shadow: #01C7F7;
+  background: rgb(2,0,36);
+  background: linear-gradient(90deg,rgba(9,9,121,1) 49%, rgba(2,0,36,1) 0%,  rgba(0,212,255,1) 100%);
+  
+}
+
+.jumbotron:hover{
+  background: rgb(2,0,36);
+  background: linear-gradient(90deg,rgba(9,9,121,1) 49%, rgba(2,0,36,1) 0%,  rgba(0,212,255,1) 100%);
+ 
+}
+
+.btn:hover{
+  background-color: #343640;
+  color:white;
+}
+
+
+.container{
+  border-radius: 10px;
+}
+
+.list-group-item:hover{
+  background-color: rgb(188,188,218);
+}
+
+.card {
+  border-radius: 20px;
+  margin: 10,10,10,10;
+}
+
+.cateCon{
+  background-color: rgb(7,6,95) ;
+}
+
+.badge{
+  background-color: blue;
+  color: white;
+}
+
+body {
+  background: rgb(36,0,0);
+background: linear-gradient(90deg, rgba(36,0,0,0) 0%, rgba(9,9,121,1) 100%, rgba(0,212,255,1) 100%);
+}
+
+footer {
+  background-color: #05044B;
+  margin-top: 100px;
+  /* position: relative; */
+  bottom: 0px;
+  right: 0px;
+  left: 0px;
+  text-decoration-color: white;
+}
+.bb{
+  background-color:rgb(188,188,218) ;
+}
+.oo {
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+}
+
+.navbar-brand{
+  font-family: 'Galada', cursive;
+}
+
+
+
+.obx {
+  background-color:rgba(52, 58, 64, 0.87) ;
+  border-radius: 5px;
+}
+
+
+
+
